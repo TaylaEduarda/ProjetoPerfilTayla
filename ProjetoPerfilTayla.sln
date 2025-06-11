@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{ADFB9F98-FE90-4C5A-A991-5DEC1774EEF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{B6F95E8C-48FD-467A-A213-4451869028F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{12C63304-FA7B-4AB1-97BD-32B622885F0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{BE208C4D-6C38-490C-B5B4-8E42BD49959E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoPerfilTayla.Domain", "ProjetoPerfilTayla.Domain\ProjetoPerfilTayla.Domain.csproj", "{722C17F3-E50F-4187-B833-300581672203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722C17F3-E50F-4187-B833-300581672203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722C17F3-E50F-4187-B833-300581672203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722C17F3-E50F-4187-B833-300581672203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722C17F3-E50F-4187-B833-300581672203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{722C17F3-E50F-4187-B833-300581672203} = {12C63304-FA7B-4AB1-97BD-32B622885F0E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52D77D00-926B-47B2-9182-EC5748DD6FD4}
+	EndGlobalSection
+EndGlobal
